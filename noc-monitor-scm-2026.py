@@ -1,9 +1,10 @@
 import datetime
 
 # ==============================
-# SISTEMA NOC - MONITORAMENTO
+# SISTEMA NOC - MONITORAMENTO NOC
 # Autor: Euler Lacerda
 # Disciplina: Projeto de Software Avançado
+# Professor(a) Mestre: Marco Ikuro Hisatomi
 # ==============================
 
 ARQUIVO_DISPOSITIVOS = "dispositivos.txt"
